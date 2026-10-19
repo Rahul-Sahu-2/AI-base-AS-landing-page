@@ -12,6 +12,7 @@
     --dot-color: #e5e7eb;
 }
 
+
 * {
     margin: 0;
     padding: 0;
@@ -53,6 +54,8 @@ h4 {
     align-items: center;
     gap: 12px;
 }
+
+
 
 .logo img {
     height: 38px;
