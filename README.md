@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">   
 
 <img src="https://ai-base-as-landing-page.vercel.app/static/img/logo.png" alt="SnapClass Logo" width="100"/>
 
